@@ -1,0 +1,1 @@
+To run the code, install npm, run `npm install` and then run `npm start` in command line. 

@@ -1,0 +1,13 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+I read through the requirements first and found them simple and did not contain any part that might make any language or library choices have considerable advantages. I then chose JavaScript, Express.js and SQLite since they were what I used for my last personal project, which I am most familiar with at this time and can have some reusable code to start with, so that I can deliver a product that meets the requirements as fast as possible. 
+
+2. What are the advantages and disadvantages of your solution?
+Advantages: 
+- I can intergrate with other JavaScript programs or utilize any available packages in future. 
+- SQLite is simple and portable, which is good for prototyping and testing like this coding exercise. 
+
+Disadvantages:
+- SQLite is not very scalable or good for high concurrency. However, since there is only one user, I think these are not huge disadvantages at this point. 
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+My favorite personal project so far is a Text-To-Speech alarm clock app. i developed this idea when I found myself getting used to regular alarm clocks and can easily miss any kind of sounds that is used for my alarms. I then brought this idea to MadHacks this semester and found three teammates who wished to work on this project with me. We had some challenges about teamwork since we didn't know each other before. With limited time in the Hackathon, we planned for the minimal viable functions and desinated tasks to each team member based on our different skill levels and previous knowledges. Another challenge was that it turned out that making cross-OS background notification with dynamic-generated sounds was extremely difficult in 24-hour limit. Therefore we decided to make it Android only and found one library that helped us successfully complete our core functions to read notes or web search results when alarm goes off. After the hackathon, I continued to work on this project to add on more functionalities including reading calendar events, and improving the functions in demo like TTS and notification experiences.  
